@@ -1,2 +1,2 @@
 netlify web url:
-https://counter-app-react-ts.netlify.app/
+https://counter-app-react-puce.vercel.app/
